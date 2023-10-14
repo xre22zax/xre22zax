@@ -19,14 +19,22 @@ My career goal is to move to a faster paced environment, where such impact has a
 </br>
 
 ## Skills: 
+</br>
+
+
+
+
+### Git Stats :
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xre22zax&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xre22zax&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Trophies :
+### Trophies :
+</br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)](https://github.com/xre22zax/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xre22zax&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -34,7 +42,7 @@ My career goal is to move to a faster paced environment, where such impact has a
 
 </br>
 
-## Follow Me On
+### Follow Me On
 
 </br>
 
