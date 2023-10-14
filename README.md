@@ -20,25 +20,17 @@ My career goal is to move to a faster paced environment, where such impact has a
 
 ## Skills: 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xre22zax&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xre22zax&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xre22zax&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=xre22zax&show_icons=true&theme=radical" />g
+## Trophies :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)](https://github.com/xre22zax/github-profile-trophy)
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/xre22zax/)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/xre22zax/)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/xre22zax/&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/xre22zax/)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/xre22zax/)  
 
 </br>
 
@@ -67,6 +59,14 @@ My career goal is to move to a faster paced environment, where such impact has a
 <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=xre22zax&show_icons=true&theme=radical" />g
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/xre22zax/)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/xre22zax/&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/xre22zax/)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/xre22zax/)  
 
 
 Here are some ideas to get you started:
