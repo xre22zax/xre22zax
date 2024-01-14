@@ -11,8 +11,8 @@
 
 </br>
 
-Recently transformed from web development to my dream job data analysis. with my great aptitude for learning i have been skilling to data analysis with self taught infrastructure data integrity and visualization and statistics.
-I continually invest in improving my production capability through training and new challenges. I am always keen on a thorough analysis of my data to transform them into impact. 
+Recently transformed from web development to my dream job data analysis. with my great aptitude for learning i have been skilling to data analysis with self taught infrastructure data integrity, visualization and statistics.
+I continually invest in improving my production capability through training and new challenges. I am always keep on a thorough analysis of my data to transform them into impact. 
 My career goal is to move to a faster paced environment, where such impact has a measurable positive effect in the short term: I want my professional growth to be intertwined with my next company’s growth.
 
 </br>
@@ -22,12 +22,17 @@ My career goal is to move to a faster paced environment, where such impact has a
 
 </br>
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 </br>
