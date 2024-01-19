@@ -11,9 +11,11 @@
 
 </br>
 
-Recently transformed from web development to my dream job data analysis. with my great aptitude for learning i have been skilling to data analysis with self taught infrastructure data integrity, visualization and statistics.
-I continually invest in improving my production capability through training and new challenges. I am always keep on a thorough analysis of my data to transform them into impact. 
-My career goal is to move to a faster paced environment, where such impact has a measurable positive effect in the short term: I want my professional growth to be intertwined with my next company’s growth.
+I self-taught myself crucial data analysis skills in just a year, including infrastructure, data integrity, visualization, and statistics. My hunger for learning fuels my continued development, through both dedicated training and seeking out new challenges.
+
+Impactful insights are my goal. I meticulously analyze data to transform it into actionable steps that drive real world results.
+
+I thrive in fast-paced environments where my contributions have a measurable, short-term impact. I'm eager to join a company whose growth is intricately linked to my own professional development.
 
 </br>
 </br>
